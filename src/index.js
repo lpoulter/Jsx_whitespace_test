@@ -11,7 +11,7 @@ function App() {
         <span>top interests, professions, gender and country</span>
       </div>
       <div>
-        Identify Twitter authors{" "}
+        Identify Twitter authors&apos;{" "}
         <span>top interests, professions, gender and country</span>
       </div>
       <div>
